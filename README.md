@@ -1,3 +1,5 @@
+![example workflow](https://github.com/AlexLeoTW/workflow_test/actions/workflows/eslint.yaml/badge.svg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
