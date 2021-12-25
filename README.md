@@ -1,4 +1,5 @@
 ![example workflow](https://github.com/AlexLeoTW/workflow_test/actions/workflows/eslint.yaml/badge.svg)
+![example workflow](https://github.com/AlexLeoTW/workflow_test/actions/workflows/build.yaml/badge.svg)
 
 # Getting Started with Create React App
 
